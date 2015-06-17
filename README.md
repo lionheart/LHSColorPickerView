@@ -7,7 +7,7 @@
 
 ## Usage
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+Instructions will be up by 5pm CST, June 17th
 
 ## Requirements
 
