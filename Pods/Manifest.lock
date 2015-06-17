@@ -1,0 +1,10 @@
+PODS:
+  - LHSCategoryCollection (0.0.20)
+
+DEPENDENCIES:
+  - LHSCategoryCollection
+
+SPEC CHECKSUMS:
+  LHSCategoryCollection: a351a51fd0da1be413222ed54020d7b9420eea7f
+
+COCOAPODS: 0.36.3
