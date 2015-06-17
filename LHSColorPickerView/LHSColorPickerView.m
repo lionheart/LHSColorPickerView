@@ -1,6 +1,5 @@
 //
 //  LHSColorPickerView.m
-//  Textshot+
 //
 //  Created by Eric Olszewski on 6/3/15.
 //  Copyright (c) 2015 Lionheart Software LLC. All rights reserved.
